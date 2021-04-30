@@ -1,0 +1,9 @@
+{
+    "description": "Get list of members from local Windows group",
+    "parameters": {
+        "groupname": {
+            "description": "The name of the local Windows group .",
+            "type": "String"
+        }
+    }
+}
